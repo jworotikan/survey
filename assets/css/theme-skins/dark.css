@@ -695,7 +695,7 @@ body.dark .header-v7 .navbar-toggle .icon-bar {
 ------------------------------------*/
 body.dark.boxed-layout {
   box-shadow: 0 0 5px #191919;
-  background: url(../../img/patterns/4.png) repeat;
+  /*background: url(../../img/patterns/4.png) repeat;*/
 }
 
 /*Breadcrumbs
