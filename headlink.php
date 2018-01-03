@@ -13,7 +13,6 @@
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="<?php echo $dataweb['favico'];?>">
-	<link rel="stylesheet" href="assets/css/newstyle.css">
 	<!-- Web Fonts -->
 	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
 
@@ -24,7 +23,7 @@
 
 	<!-- CSS Header and Footer -->
 	<link rel="stylesheet" href="assets/css/headers/header-v6.css">
-	<link rel="stylesheet" href="assets/css/footer-v1.css">
+	<link rel="stylesheet" href="assets/css/footers/footer-v1.css">
 
 	<!-- CSS Implementing Plugins -->
 	<link rel="stylesheet" href="assets/plugins/animate.css">
@@ -42,7 +41,6 @@
 	<!-- CSS Theme -->
 	<link rel="stylesheet" href="assets/css/theme-colors/dark-red.css" id="style_color">
 	<link rel="stylesheet" href="assets/css/theme-skins/dark.css">
-	<link rel="stylesheet" href="assets/css/newstyle-imi.css">
 
 	<!-- CSS Customization -->
 	<link rel="stylesheet" href="assets/css/custom.css">

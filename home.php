@@ -16,15 +16,15 @@
 	<div class="wrapper page-option-v1">
 				
 
-<?php
-	include 'header2.php';
-?>
+	<?php
+		//*include 'header2.php';
+		include '2fas.php';
+	?>
 
 
 
-<?php
-include 'footer.php';
-?>
+	<?php
+	?>
 
 	</div><!--/wrapper-->
 
